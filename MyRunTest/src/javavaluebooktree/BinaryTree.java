@@ -26,6 +26,10 @@ public class BinaryTree {
         return root;
     }
 
+    public void setRoot(Node root) {
+        this.root = root;
+    }
+
     public BinaryTree() {
         root=null;
     }

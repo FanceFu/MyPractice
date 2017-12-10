@@ -556,7 +556,7 @@ public class day01 {
        // findSum(a,4);
         //System.out.println(findMaxDup(a));
        // System.out.println(maxSubArray(a));
-        //System.out.println(findsecMax(a));
+        System.out.println(findsecMax(a));
        // int[] res=getMaxAndMin(a);
         //for (int i = 0; i < res.length; i++) {
         //   System.out.println(a[i]);
